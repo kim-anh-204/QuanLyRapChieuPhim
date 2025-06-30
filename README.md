@@ -46,7 +46,14 @@
 
 ---
 
-## 🗃️png)  
+---
+
+## 🗺️ Sơ đồ ERD – Thiết kế cơ sở dữ liệu
+
+Dưới đây là sơ đồ thực thể – quan hệ (ERD) mô tả cấu trúc cơ sở dữ liệu của hệ thống:
+
+![Sơ đồ ERD](image.png)
+
 
 
 ---
