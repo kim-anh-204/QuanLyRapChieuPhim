@@ -46,15 +46,8 @@
 
 ---
 
-## 🗃️ Cơ sở dữ liệu
+## 🗃️png)  
 
-Hệ thống sử dụng SQL Server với các bảng chính:
-
-- `PHIM`, `SUATCHIEU`, `PHONGCHIEUPHIM`
-- `VEXEMPHIM`, `KHACHHANG`, `NHANVIEN`, `NGUOIDUNG`
-- `GHE`, `PHIM_LOAIPHIM`, `LOAIPHIM`
-
-Cơ sở dữ liệu đảm bảo tính toàn vẹn và các ràng buộc giữa các bảng.
 
 ---
 
