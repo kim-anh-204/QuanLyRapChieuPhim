@@ -1,6 +1,6 @@
 # 🎬 Quản Lý Rạp Chiếu Phim
 
-Đây là phần mềm **quản lý rạp chiếu phim** được xây dựng bởi Nhóm 9 - CNTT4 - K63 trong môn học **Lập trình trực quan**. Ứng dụng hỗ trợ cả khách hàng lẫn quản lý trong việc đặt vé, theo dõi suất chiếu, doanh thu, và thống kê hoạt động kinh doanh.
+Đây là phần mềm **quản lý rạp chiếu phim** được xây dựng bởi **Nhóm 9 - CNTT4 - K63** trong môn học **Lập trình trực quan**. Ứng dụng hỗ trợ cả khách hàng lẫn quản lý trong việc đặt vé, theo dõi suất chiếu, doanh thu và thống kê hoạt động kinh doanh.
 
 ---
 
@@ -8,10 +8,10 @@
 
 | Họ tên               | Mã sinh viên | Công việc chính |
 |---------------------|--------------|-----------------|
-| Nguyễn Đình Tuấn Anh | 221231039   | Quản lý phim, doanh thu, thiết kế CSDL, vẽ sitemap |
-| Trần Văn Giáp        | 221230818   | Giao diện đăng nhập/đăng ký, đặt vé, chỉnh sửa thông tin, thiết kế Figma |
-| Nguyễn Tùng Lâm      | 221230892   | Giao diện đăng ký, quản lý suất chiếu, nhân viên, khách hàng, vẽ use-case |
-| Trần Kim Anh         | 221230742   | Quản lý phòng chiếu, báo cáo thống kê phim, chèn dữ liệu và tổng hợp báo cáo |
+| Nguyễn Đình Tuấn Anh | 221231039    | Quản lý phim, doanh thu, thiết kế CSDL, vẽ sitemap |
+| Trần Văn Giáp        | 221230818    | Giao diện đăng nhập/đăng ký, đặt vé, chỉnh sửa thông tin, thiết kế Figma |
+| Nguyễn Tùng Lâm      | 221230892    | Giao diện đăng ký, quản lý suất chiếu, nhân viên, khách hàng, vẽ use-case |
+| Trần Kim Anh         | 221230742    | Quản lý phòng chiếu, báo cáo thống kê phim, chèn dữ liệu và tổng hợp báo cáo |
 
 ---
 
@@ -21,8 +21,8 @@
 - **Nền tảng**: WinForms (.NET)
 - **Backend**: ASP.NET  
 - **Cơ sở dữ liệu**: SQL Server
-- **Thư viện hỗ trợ UI**: Bunifu Framework  
-- **Biểu đồ, thống kê**: LiveCharts
+- **Thư viện UI**: Bunifu Framework  
+- **Thống kê & biểu đồ**: LiveCharts
 
 ---
 
@@ -40,9 +40,9 @@
 - Theo dõi và thống kê doanh thu theo ngày/tuần/tháng/năm
 - Xuất báo cáo doanh thu ra Excel
 - Hiển thị biểu đồ:
-  - Top 5 thể loại phim được xem nhiều
-  - Top 5 suất chiếu bán chạy
-  - Top 10 phim được xem nhiều nhất
+  - 🎞️ Top 5 thể loại phim được xem nhiều
+  - 🕒 Top 5 suất chiếu bán chạy
+  - 🎥 Top 10 phim được xem nhiều nhất
 
 ---
 
@@ -54,9 +54,7 @@ Hệ thống sử dụng SQL Server với các bảng chính:
 - `VEXEMPHIM`, `KHACHHANG`, `NHANVIEN`, `NGUOIDUNG`
 - `GHE`, `PHIM_LOAIPHIM`, `LOAIPHIM`
 
-Hệ thống đảm bảo tính toàn vẹn, ràng buộc chặt chẽ giữa các bảng.
-
----
+Cơ sở dữ liệu đảm bảo tính toàn vẹn và các ràng buộc giữa các bảng.
 
 ---
 
@@ -64,14 +62,13 @@ Hệ thống đảm bảo tính toàn vẹn, ràng buộc chặt chẽ giữa c�
 
 Dưới đây là một số giao diện chính của phần mềm Quản lý Rạp Chiếu Phim:
 
-| Chức năng               | Ảnh minh họa                        |
-|-------------------------|-------------------------------------|
-| 🏠 Trang chủ khách hàng | ![](trangchuKH.png)          |
-| 🎟️ Giao diện đặt vé     | ![](datve.png)               |
-| 🔐 Giao diện đăng nhập  | ![](login.png)               |
-| 📝 Giao diện đăng ký    | ![](signup.png)              |
-| 🎬 Quản lý phim         | ![](qlphim.png)              |
-| 🏢 Quản lý phòng chiếu  | ![](qlphong.png)             |
-| 📊 Giao diện doanh thu  | ![](revenue.png)             |
-| 📈 Thống kê             | ![](thongke.png)             |
-
+| Chức năng               | Ảnh minh họa             |
+|-------------------------|--------------------------|
+| 🏠 Trang chủ khách hàng | ![](trangchuKH.png)      |
+| 🎟️ Giao diện đặt vé     | ![](datve.png)           |
+| 🔐 Giao diện đăng nhập  | ![](login.png)           |
+| 📝 Giao diện đăng ký    | ![](signup.png)          |
+| 🎬 Quản lý phim         | ![](qlphim.png)          |
+| 🏢 Quản lý phòng chiếu  | ![](qlphong.png)         |
+| 📊 Giao diện doanh thu  | ![](revenue.png)         |
+| 📈 Thống kê             | ![](thongke.png)         |
