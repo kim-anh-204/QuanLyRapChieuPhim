@@ -65,10 +65,10 @@ Dưới đây là một số giao diện chính của phần mềm Quản lý R�
 | Chức năng               | Ảnh minh họa             |
 |-------------------------|--------------------------|
 | 🏠 Trang chủ khách hàng | ![](trangchuKH)      |
-| 🎟️ Giao diện đặt vé     | ![](datve)           |
-| 🔐 Giao diện đăng nhập  | ![](login)           |
-| 📝 Giao diện đăng ký    | ![](signup)          |
-| 🎬 Quản lý phim         | ![](qlphim)          |
-| 🏢 Quản lý phòng chiếu  | ![](qlphong)         |
-| 📊 Giao diện doanh thu  | ![](revenue)         |
-| 📈 Thống kê             | ![](thongke)         |
+| 🎟️ Giao diện đặt vé(Khách hàng)     | ![](datve)           |
+| 🔐 Giao diện đăng nhập(Khách hàng)  | ![](login)           |
+| 📝 Giao diện đăng ký(Khách hàng)    | ![](signup)          |
+| 🎬 Quản lý phim(admin)        | ![](qlphim)          |
+| 🏢 Quản lý phòng chiếu(admin) | ![](qlphong)         |
+| 📊 Giao diện doanh thu(admin)  | ![](revenue)         |
+| 📈 Thống kê(admin)            | ![](thongke.png)         |
