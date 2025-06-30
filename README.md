@@ -11,7 +11,7 @@
 | Nguyễn Đình Tuấn Anh | 221231039   | Quản lý phim, doanh thu, thiết kế CSDL, vẽ sitemap |
 | Trần Văn Giáp        | 221230818   | Giao diện đăng nhập/đăng ký, đặt vé, chỉnh sửa thông tin, thiết kế Figma |
 | Nguyễn Tùng Lâm      | 221230892   | Giao diện đăng ký, quản lý suất chiếu, nhân viên, khách hàng, vẽ use-case |
-| Trần Kim Anh         | 221230742   | Quản lý phòng chiếu, báo cáo doanh thu, chèn dữ liệu và tổng hợp báo cáo |
+| Trần Kim Anh         | 221230742   | Quản lý phòng chiếu, báo cáo thống kê phim, chèn dữ liệu và tổng hợp báo cáo |
 
 ---
 
@@ -58,11 +58,20 @@ Hệ thống đảm bảo tính toàn vẹn, ràng buộc chặt chẽ giữa c�
 
 ---
 
-## 📷 Một số hình ảnh
+---
 
-> _Bạn có thể thêm ảnh tại đây để minh họa: giao diện đăng nhập, quản lý phim, biểu đồ thống kê, đặt vé,..._
+## 📷 Giao diện ứng dụng
 
-```markdown
-![Trang đăng nhập](screenshots/login.png)
-![Quản lý phim](screenshots/manage_movies.png)
-![Biểu đồ doanh thu](screenshots/revenue_chart.png)
+Dưới đây là một số giao diện chính của phần mềm Quản lý Rạp Chiếu Phim:
+
+| Chức năng               | Ảnh minh họa                        |
+|-------------------------|-------------------------------------|
+| 🏠 Trang chủ khách hàng | ![](static/trangchuKH.png)          |
+| 🎟️ Giao diện đặt vé     | ![](static/datve.png)               |
+| 🔐 Giao diện đăng nhập  | ![](static/login.png)               |
+| 📝 Giao diện đăng ký    | ![](static/signup.png)              |
+| 🎬 Quản lý phim         | ![](static/qlphim.png)              |
+| 🏢 Quản lý phòng chiếu  | ![](static/qlphong.png)             |
+| 📊 Giao diện doanh thu  | ![](static/revenue.png)             |
+| 📈 Thống kê             | ![](static/thongke.png)             |
+
