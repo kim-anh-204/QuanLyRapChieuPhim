@@ -11,7 +11,7 @@
 | Nguyễn Đình Tuấn Anh | 221231039    | Quản lý phim, doanh thu, thiết kế CSDL, vẽ sitemap |
 | Trần Văn Giáp        | 221230818    | Giao diện đăng nhập/đăng ký, đặt vé, chỉnh sửa thông tin, thiết kế Figma |
 | Nguyễn Tùng Lâm      | 221230892    | Giao diện đăng ký, quản lý suất chiếu, nhân viên, khách hàng, vẽ use-case |
-| Trần Kim Anh         | 221230742    | Quản lý phòng chiếu, báo cáo thống kê phim, chèn dữ liệu và tổng hợp báo cáo |
+| Trần Kim Anh         | 221230742    | Quản lý phòng chiếu, báo cáo thống kê phim, thiết kế CSDL, chèn dữ liệu và tổng hợp báo cáo |
 
 ---
 
